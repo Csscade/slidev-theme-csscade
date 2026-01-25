@@ -66,11 +66,10 @@ const props = defineProps({
     font-size: 3rem;
     line-height: 3.5rem;
     margin-bottom: 40px;
-    width: 850%;
   }
 
   h4 {
-    font-family: var(--font-primary);
+    font-family: var(--font-primary), sans-serif;
   }
 
   .cols {
