@@ -39,8 +39,9 @@ const props = defineProps({
   text-align: center;
 
   h3 {
-    font-size: 4.5rem;
-    margin-bottom: 50px;
+    font-size: 3rem;
+    line-height: 3rem;
+    margin-bottom: 1.5rem;
   }
 
   p {

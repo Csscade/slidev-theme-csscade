@@ -27,6 +27,7 @@ import SlidesCurrentNumber from "../components/slides-current-number.vue";
 
   h3 {
     font-size: 3rem;
+    line-height: 3rem;
     margin-bottom: 40px;
   }
 }
