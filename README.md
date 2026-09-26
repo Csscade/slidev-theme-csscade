@@ -8,8 +8,8 @@ Live demo: [https://csscade.github.io/slidev-theme-csscade](https://csscade.gith
 
 |                     Dark                     |                       Light                        |
 | :------------------------------------------: | :------------------------------------------------: |
-|        ![cover](example-export/1.png)        |        ![cover](example-export-light/1.png)        |
-| ![transition-headline](example-export/4.png) | ![transition-headline](example-export-light/4.png) |
+|        ![cover](https://raw.githubusercontent.com/Csscade/slidev-theme-csscade/main/example-export/1.png)        |        ![cover](https://raw.githubusercontent.com/Csscade/slidev-theme-csscade/main/example-export-light/1.png)        |
+| ![transition-headline](https://raw.githubusercontent.com/Csscade/slidev-theme-csscade/main/example-export/4.png) | ![transition-headline](https://raw.githubusercontent.com/Csscade/slidev-theme-csscade/main/example-export-light/4.png) |
 
 ## Install
 

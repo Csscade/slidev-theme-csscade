@@ -1,8 +1,18 @@
 {
   "name": "slidev-theme-csscade",
   "version": "0.0.4",
-  "type": "module",
+  "description": "A Csscade theme for Slidev",
   "author": "Manon Carbonnel",
+  "license": "MIT",
+  "homepage": "https://csscade.github.io/slidev-theme-csscade",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Csscade/slidev-theme-csscade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Csscade/slidev-theme-csscade/issues"
+  },
+  "type": "module",
   "keywords": [
     "slidev-theme",
     "slidev"
@@ -38,7 +48,21 @@
       "fonts": {
         "sans": "Poppins",
         "mono": "Fira Code"
-      }
+      },
+      "favicon": "/favicon.png"
     }
-  }
+  },
+  "files": [
+    "components",
+    "helpers",
+    "layouts",
+    "public/arrow.png",
+    "public/favicon.png",
+    "public/iphone-15-pro-max-frame.png",
+    "public/macbook-air-frame.png",
+    "setup",
+    "styles",
+    "README.md",
+    "package.json"
+  ]
 }
